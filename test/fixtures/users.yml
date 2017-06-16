@@ -3,4 +3,3 @@ bryan:
   name: Bryan Anderson
   email: dreamstarter@gmail.com
   password_digest: <%= User.digest('password') %>
-  
