@@ -1,6 +1,6 @@
 # Ruby on Rails Sample application
 
-This is a boilerplate sample application
+This is a boilerplate Ruby on Rails application that could be used as a foundation for any project.
 
 ## License
 
